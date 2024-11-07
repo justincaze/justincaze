@@ -31,7 +31,6 @@ Hi, I'm JustinCaze – a Software Engineer with a unique blend of skills in deve
 <summary><h3>My Coding Journey</h3></summary>
 My journey into tech started uniquely – over 10 years as a tattoo artist with a solid foundation in design. As I worked, my fascination with digital media grew, and I made the leap into development by taking various courses, starting a degree in Media Engineering, and completing a web developer bootcamp. Since then, I’ve built personal projects and worked hard to transition my skills from ink and design to code and creation. Now, I’m excited to bring this diverse experience to the tech industry as I grow into a full-time developer role.
 </details>
-#
 
 ### 🔗 Let's Connect!
 
